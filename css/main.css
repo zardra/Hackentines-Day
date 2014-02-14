@@ -9,16 +9,12 @@ body {
 
 .hackentines-day-card-container {
   width: 500px;
-  height: 200px;
+  height: 400px;
   margin: 40px auto;
   background-color: #E1E1E1;
-  padding: 100px 25px;
+  padding: 50px 25px 50px 25px;
   cursor: pointer;
   border: 10px solid #CD5C5C;
-}
-
-.card {
-  text-align: center;
 }
 
 .swatch {
